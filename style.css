@@ -1,0 +1,18 @@
+.bar {
+    display: none;
+    background-color: #575757;
+    height: 5px;
+    left: 50%;
+    margin-left: -300px;
+    /* margin-top: 40px; */
+    /* position: absolute; */
+    /* top: 50%; */
+    width: 600px;
+    z-index: 20;
+    }
+     
+    .bar .progress {
+    width: 0%;
+    height: 100%;
+    background-color: #E02222;
+    }
